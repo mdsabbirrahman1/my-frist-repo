@@ -1,0 +1,25 @@
+ .blog{
+    width: 400px;text-align: center;background-color: #24B3d5;color: white;
+    margin: 20px;padding: 10px;font-size: 16px; 
+ }
+ .para{
+     line-height: 20px;font-weight:300;   
+ }
+ span{
+    color: red;
+ }
+ .blog-a{
+       
+    width: 400px;text-align: center;background-color: #257CED;color: white;
+    margin: 20px;padding: 10px;font-size: 16px;  
+ }
+ .blog-b{
+    width: 400px;text-align: center;background-color: #ff6462;color: white;
+    margin: 20px;padding: 10px;font-size: 16px; 
+}
+    .container{
+        display: flex;
+        align-items: stretch;
+    }
+         
+        
